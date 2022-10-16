@@ -1,6 +1,6 @@
 # JS Password Generator
 I used this for getting random passwords\
-Develoyed [Link](!https://jagrati1213.github.io/password-generator/)
+Develoyed [Link](https://jagrati1213.github.io/password-generator/)
 
 ## Used Language 
 - HTML
