@@ -1,7 +1,4 @@
 # Password Generator App
-
-## Overview :
-
 This is a simple Password Generator App that helps you generate strong and secure passwords. The application is built using HTML, CSS, and JavaScript to provide a user-friendly and efficient password generation experience.
 [Password Generator](https://jagrati1213.github.io/password-generator/)
 
